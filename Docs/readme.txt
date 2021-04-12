@@ -1,1 +1,2 @@
-Responder preguntas y marcar con el nombre de los integrantes
+Jairo Nicolás Gómez
+Santiago Vela
